@@ -2,9 +2,9 @@
 
 ### PROYECTO EN SCSS Y CSS
 
-Este proyecto es un version de un BOB esponja pantaloes cuadrados para ensayar ciomandos de CSS y SCSS
+Este proyecto es un version de un BOB esponja pantaloNes cuadrados para ensayar ciomandos de CSS y SCSS
 
 
 
 
-![Captura de pantalla](BOB-ESPONJA-JPG).
+![Captura de pantalla](BOB-ESPONJA.JPG)
